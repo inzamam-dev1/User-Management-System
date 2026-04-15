@@ -125,8 +125,8 @@ export default function Login() {
             DEMO CREDENTIALS
           </p>
           {[
-            { role: "Admin", email: "admin@ums.com", pwd: "Admin@123" },
-            { role: "Manager", email: "manager@ums.com", pwd: "Manager@123" },
+            { role: "Admin", email: "admin@ums.com", pwd: "Admin@1234" },
+            { role: "Manager", email: "manager@ums.com", pwd: "Manager@1234" },
             { role: "User", email: "user@ums.com", pwd: "User@1234" },
           ].map((c) => (
             <div

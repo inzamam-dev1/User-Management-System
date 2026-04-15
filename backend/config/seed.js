@@ -9,14 +9,14 @@ const seedUsers = [
   {
     name: "Super Admin",
     email: "admin@ums.com",
-    password: "Admin@123",
+    password: "Admin@1234",
     role: ROLES.ADMIN,
     status: STATUS.ACTIVE,
   },
   {
     name: "Jane Manager",
     email: "manager@ums.com",
-    password: "Manager@123",
+    password: "Manager@1234",
     role: ROLES.MANAGER,
     status: STATUS.ACTIVE,
   },
