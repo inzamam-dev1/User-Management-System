@@ -8,8 +8,8 @@ A full-stack MERN web application for managing user accounts with role-based acc
 
 | | URL |
 |---|---|
-| **Frontend** | `https://your-frontend.vercel.app` |
-| **Backend API** | `https://your-backend.onrender.com/api` |
+| **Frontend** | `https://user-management-system-alpha-two.vercel.app/login` |
+| **Backend API** | `https://user-management-system-alpha-two.vercel.app/` |
 
 > **Demo credentials** (after seeding):
 > | Role | Email | Password |
