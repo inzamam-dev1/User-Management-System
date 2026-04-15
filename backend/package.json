@@ -1,6 +1,7 @@
 {
   "name": "ums-backend",
   "version": "1.0.0",
+  "type": "module",
   "description": "User Management System - Backend API",
   "main": "server.js",
   "scripts": {
